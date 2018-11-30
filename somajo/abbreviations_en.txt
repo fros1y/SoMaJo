@@ -1034,3 +1034,14 @@ Zeitschr.
 Zeph.
 Zoogeogr.
 Zool.
+
+# Custom Patent Abbreviations
+Pat.
+No.
+App.
+Appl'n.
+FIG.
+Fig.
+FIGS.
+Figs.
+Nos.
